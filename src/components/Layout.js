@@ -1,5 +1,5 @@
 import {Link, Outlet} from "react-router-dom";
-import icon from '../images/img.png'
+import icon from '../img.png'
 
 const Layout = () => {
     return (
