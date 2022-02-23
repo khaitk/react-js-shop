@@ -19,11 +19,11 @@ const Cafe = () => {
                                     </div>
                                     <div className="card-body text-center">
                                         <div className="row">
-                                            <div className="col border-right">
+                                            <div className="col-sm-8">
                                                 <b className="text-warning">{cafe.name}</b>
                                                 <div className="font-weight-bold">{cafe.price}K</div>
                                             </div>
-                                            <div className="col">
+                                            <div className="col-sm-4" onClick={(() => alert('Đã click'))}>
                                                 <i className="fas fa-shopping-cart"></i>
                                                 <span className="text-muted"></span>
                                                 <div className="font-weight-bold">Thêm</div>
