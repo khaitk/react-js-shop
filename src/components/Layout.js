@@ -18,7 +18,7 @@ const Layout = () => {
                             <Link className="nav-link" to="cafe"><h3>Cafe</h3></Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="trasua"><h3>Trà Sữa</h3></Link>
+                            <Link className="nav-link" to="tra"><h3>Trà </h3></Link>
                         </li>
                     </ul>
                 </div>

@@ -26,31 +26,31 @@ const MenuCafe = [
     },
 ]
 
-const MenuMilkTea = [
+const MenuTea = [
     {
         id : 1,
         name:'Trà Sữa',
-        image:'../images/milktea/trasua1.png',
+        image:'../images/tea/trasua1.png',
         price:'15',
     },
     {
         id : 2,
         name:'Hồng Trà Sữa',
-        image:'../images/milktea/tra-sua.png',
+        image:'../images/tea/tra-sua.png',
         price:'20',
     },
     {
         id : 3,
         name:'Trà Hoa Hồng',
-        image:'../images/milktea/tra-hoa-hong.png',
+        image:'../images/tea/tra-hoa-hong.png',
         price:'25',
     },
     {
         id : 4,
         name:'Trà Xanh Đá Xay',
-        image:'../images/milktea/tra-xanh-da-xay.png',
+        image:'../images/tea/tra-xanh-da-xay.png',
         price:'25',
     },
 ]
 
-export {MenuCafe, MenuMilkTea}
+export {MenuCafe, MenuTea}
