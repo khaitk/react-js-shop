@@ -4,7 +4,7 @@ import icon from '../img.png'
 const Layout = () => {
     return (
         <>
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <nav className="navbar navbar-expand-lg">
                 <Link className="navbar-brand" to="/">
                     <img src={icon} width="80" height="80"
                          className="d-inline-block align-top" alt=""/>
