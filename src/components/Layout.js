@@ -26,6 +26,7 @@ const Layout = () => {
                     Giỏ hàng (0)
                 </div>
             </nav>
+
             <Outlet />
         </>
     )
